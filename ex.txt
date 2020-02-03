@@ -1,4 +1,0 @@
-ex.txt	file.txt
-
-
-by senthil
