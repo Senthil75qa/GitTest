@@ -5,3 +5,4 @@ echo "Second line
 echo " thirst line
 Tested Merge confilit
 End
+Good bye
