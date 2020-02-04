@@ -1,4 +1,4 @@
-
-echo "First line
+Echo "First line
 echo "Second line
-Merge conflit resolved
+echo " thirst line
+Tested Merge confilit
