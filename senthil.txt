@@ -1,1 +1,4 @@
-My first line:
+
+echo "First line
+echo "Second line
+Merge conflit resolved
